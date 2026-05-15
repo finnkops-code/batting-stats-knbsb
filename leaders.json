@@ -1,0 +1,156 @@
+{
+  "bijgewerkt": "2026-05-15T09:03:16Z",
+  "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
+  "categories": [
+    {
+      "label": "Hits",
+      "leaders": [
+        {
+          "naam": "Christian DIAZ",
+          "team": "NEP",
+          "waarde": 24
+        },
+        {
+          "naam": "Stijn VAN DER MEER",
+          "team": "NEP",
+          "waarde": 21
+        },
+        {
+          "naam": "Luca VAN GORKUM",
+          "team": "KIN",
+          "waarde": 20
+        },
+        {
+          "naam": "Guus TOEMEN",
+          "team": "KIN",
+          "waarde": 19
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": 18
+        }
+      ]
+    },
+    {
+      "label": "Home Runs",
+      "leaders": [
+        {
+          "naam": "Dayrell PIETERNELLA",
+          "team": "UVV",
+          "waarde": 4
+        },
+        {
+          "naam": "Brendly MARTINA",
+          "team": "AMS",
+          "waarde": 3
+        },
+        {
+          "naam": "Jayden MOHAMED",
+          "team": "KIN",
+          "waarde": 3
+        },
+        {
+          "naam": "Jair VAN BORKULO",
+          "team": "KIN",
+          "waarde": 3
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": 2
+        }
+      ]
+    },
+    {
+      "label": "Batting Average",
+      "leaders": [
+        {
+          "naam": "Den SEELBACH",
+          "team": "NEP",
+          "waarde": ".571"
+        },
+        {
+          "naam": "Christian DIAZ",
+          "team": "NEP",
+          "waarde": ".453"
+        },
+        {
+          "naam": "Brendly MARTINA",
+          "team": "AMS",
+          "waarde": ".438"
+        },
+        {
+          "naam": "Raul JACOBS",
+          "team": "PIO",
+          "waarde": ".414"
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": ".409"
+        }
+      ]
+    },
+    {
+      "label": "Slugging",
+      "leaders": [
+        {
+          "naam": "Brendly MARTINA",
+          "team": "AMS",
+          "waarde": ".719"
+        },
+        {
+          "naam": "Den SEELBACH",
+          "team": "NEP",
+          "waarde": ".643"
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": ".636"
+        },
+        {
+          "naam": "Christian DIAZ",
+          "team": "NEP",
+          "waarde": ".585"
+        },
+        {
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": ".583"
+        }
+      ]
+    },
+    {
+      "label": "OPS",
+      "leaders": [
+        {
+          "naam": "Den SEELBACH",
+          "team": "NEP",
+          "waarde": "1.000"
+        },
+        {
+          "naam": "Brendly MARTINA",
+          "team": "AMS",
+          "waarde": "1.000"
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": "1.000"
+        },
+        {
+          "naam": "Delano SELASSA",
+          "team": "AMS",
+          "waarde": "1.000"
+        },
+        {
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": "1.000"
+        }
+      ]
+    }
+  ]
+}
