@@ -47,12 +47,10 @@ def main():
     batting = data["data"]
     print(f"Spelers ontvangen: {len(batting)}")
 
-    # Sla ruwe data op voor controle
     with open("batting.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     print("✅ batting.json opgeslagen")
 
-    # Verwerk naar leaders
     output = {
         "bijgewerkt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "bron": BATTING_URL,
@@ -61,7 +59,6 @@ def main():
             top5(batting, "hr",  "Home Runs"),
             top5(batting, "avg", "Batting Average", formatter=fmt_avg, min_ab=5),
             top5(batting, "slg", "Slugging",        formatter=fmt_avg, min_ab=5),
-            top5(batting, "ops", "OPS",             formatter=fmt_avg, min_ab=5),
         ]
     }
 
