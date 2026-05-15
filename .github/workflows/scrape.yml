@@ -1,0 +1,27 @@
+name: Scrape KNBSB Batting Leaders
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch batting stats
+        run: |
+          curl -s "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en" -o batting.json
+
+      - name: Verwerk naar leaders JSON
+        run: python process.py
+
+      - name: Commit JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add leaders.json
+          git diff --staged --quiet || git commit -m "Update batting leaders $(date -u +%Y-%m-%dT%H:%M)"
+          git push
