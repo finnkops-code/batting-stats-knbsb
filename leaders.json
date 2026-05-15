@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-15T09:03:16Z",
+  "bijgewerkt": "2026-05-15T09:23:05Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -119,36 +119,6 @@
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
           "waarde": ".583"
-        }
-      ]
-    },
-    {
-      "label": "OPS",
-      "leaders": [
-        {
-          "naam": "Den SEELBACH",
-          "team": "NEP",
-          "waarde": "1.000"
-        },
-        {
-          "naam": "Brendly MARTINA",
-          "team": "AMS",
-          "waarde": "1.000"
-        },
-        {
-          "naam": "Darryl COLLINS",
-          "team": "NEP",
-          "waarde": "1.000"
-        },
-        {
-          "naam": "Delano SELASSA",
-          "team": "AMS",
-          "waarde": "1.000"
-        },
-        {
-          "naam": "Tommy VAN DE SANDEN",
-          "team": "AMS",
-          "waarde": "1.000"
         }
       ]
     }
