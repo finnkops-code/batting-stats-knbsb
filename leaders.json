@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-16T11:52:24Z",
+  "bijgewerkt": "2026-05-16T13:25:20Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,27 +8,27 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 24
+          "waarde": 25
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 21
+          "waarde": 22
         },
         {
           "naam": "Luca VAN GORKUM",
           "team": "KIN",
-          "waarde": 20
+          "waarde": 22
         },
         {
           "naam": "Guus TOEMEN",
           "team": "KIN",
-          "waarde": 19
+          "waarde": 20
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": 18
+          "waarde": 19
         }
       ]
     },
@@ -68,12 +68,12 @@
         {
           "naam": "Den SEELBACH",
           "team": "NEP",
-          "waarde": ".571"
+          "waarde": ".563"
         },
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".453"
+          "waarde": ".455"
         },
         {
           "naam": "Brendly MARTINA",
@@ -81,9 +81,9 @@
           "waarde": ".438"
         },
         {
-          "naam": "Raul JACOBS",
-          "team": "PIO",
-          "waarde": ".414"
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": ".413"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
@@ -106,19 +106,19 @@
           "waarde": ".692"
         },
         {
-          "naam": "Den SEELBACH",
-          "team": "NEP",
-          "waarde": ".643"
-        },
-        {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": ".636"
+          "waarde": ".630"
+        },
+        {
+          "naam": "Den SEELBACH",
+          "team": "NEP",
+          "waarde": ".625"
         },
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".585"
+          "waarde": ".600"
         }
       ]
     }
