@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-16T10:16:53Z",
+  "bijgewerkt": "2026-05-16T11:52:24Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -86,9 +86,9 @@
           "waarde": ".414"
         },
         {
-          "naam": "Darryl COLLINS",
-          "team": "NEP",
-          "waarde": ".409"
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": ".410"
         }
       ]
     },
@@ -99,6 +99,11 @@
           "naam": "Brendly MARTINA",
           "team": "AMS",
           "waarde": ".719"
+        },
+        {
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": ".692"
         },
         {
           "naam": "Den SEELBACH",
@@ -114,11 +119,6 @@
           "naam": "Christian DIAZ",
           "team": "NEP",
           "waarde": ".585"
-        },
-        {
-          "naam": "Tommy VAN DE SANDEN",
-          "team": "AMS",
-          "waarde": ".583"
         }
       ]
     }
