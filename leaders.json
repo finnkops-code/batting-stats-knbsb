@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T11:21:41Z",
+  "bijgewerkt": "2026-05-30T13:41:41Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,7 +8,7 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 27
+          "waarde": 28
         },
         {
           "naam": "Stijn VAN DER MEER",
@@ -26,8 +26,8 @@
           "waarde": 23
         },
         {
-          "naam": "Jeandro TROMP",
-          "team": "AMS",
+          "naam": "Dwayne KEMP",
+          "team": "NEP",
           "waarde": 22
         }
       ]
@@ -35,6 +35,11 @@
     {
       "label": "Home Runs",
       "leaders": [
+        {
+          "naam": "Nando MOSTAERT",
+          "team": "TWI",
+          "waarde": 4
+        },
         {
           "naam": "Dayrell PIETERNELLA",
           "team": "UVV",
@@ -51,11 +56,6 @@
           "waarde": 3
         },
         {
-          "naam": "Nando MOSTAERT",
-          "team": "TWI",
-          "waarde": 3
-        },
-        {
           "naam": "Jorrit PATIST",
           "team": "UVV",
           "waarde": 3
@@ -66,6 +66,11 @@
       "label": "Batting Average",
       "leaders": [
         {
+          "naam": "Jamie BEERMAN",
+          "team": "AMS",
+          "waarde": ".600"
+        },
+        {
           "naam": "Den SEELBACH",
           "team": "NEP",
           "waarde": ".526"
@@ -73,22 +78,17 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".450"
+          "waarde": ".452"
         },
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".449"
+          "waarde": ".431"
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": ".443"
-        },
-        {
-          "naam": "Darryl COLLINS",
-          "team": "NEP",
-          "waarde": ".418"
+          "waarde": ".415"
         }
       ]
     },
@@ -96,29 +96,29 @@
       "label": "Slugging",
       "leaders": [
         {
+          "naam": "Nando MOSTAERT",
+          "team": "TWI",
+          "waarde": ".679"
+        },
+        {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".694"
-        },
-        {
-          "naam": "Jorrit PATIST",
-          "team": "UVV",
-          "waarde": ".648"
-        },
-        {
-          "naam": "Darryl COLLINS",
-          "team": "NEP",
-          "waarde": ".636"
+          "waarde": ".667"
         },
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".633"
+          "waarde": ".629"
         },
         {
-          "naam": "Brendly MARTINA",
-          "team": "AMS",
-          "waarde": ".632"
+          "naam": "Drew JANSSEN",
+          "team": "NEP",
+          "waarde": ".625"
+        },
+        {
+          "naam": "Jorrit PATIST",
+          "team": "UVV",
+          "waarde": ".625"
         }
       ]
     }
