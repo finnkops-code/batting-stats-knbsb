@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T15:08:21Z",
+  "bijgewerkt": "2026-05-30T17:06:55Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,12 +8,17 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 28
+          "waarde": 30
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 27
+          "waarde": 28
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": 25
         },
         {
           "naam": "Luca VAN GORKUM",
@@ -21,13 +26,8 @@
           "waarde": 24
         },
         {
-          "naam": "Darryl COLLINS",
+          "naam": "Dwayne KEMP",
           "team": "NEP",
-          "waarde": 23
-        },
-        {
-          "naam": "Nando MOSTAERT",
-          "team": "TWI",
           "waarde": 23
         }
       ]
@@ -73,22 +73,22 @@
         {
           "naam": "Jamie BEERMAN",
           "team": "AMS",
-          "waarde": ".600"
+          "waarde": ".556"
         },
         {
           "naam": "Den SEELBACH",
           "team": "NEP",
-          "waarde": ".526"
+          "waarde": ".500"
         },
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".452"
+          "waarde": ".448"
         },
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".431"
+          "waarde": ".434"
         }
       ]
     },
@@ -108,17 +108,17 @@
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".667"
+          "waarde": ".679"
         },
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".629"
+          "waarde": ".612"
         },
         {
-          "naam": "Drew JANSSEN",
-          "team": "NEP",
-          "waarde": ".625"
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": ".611"
         }
       ]
     }
