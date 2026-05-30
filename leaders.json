@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T13:41:41Z",
+  "bijgewerkt": "2026-05-30T15:08:21Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -26,9 +26,9 @@
           "waarde": 23
         },
         {
-          "naam": "Dwayne KEMP",
-          "team": "NEP",
-          "waarde": 22
+          "naam": "Nando MOSTAERT",
+          "team": "TWI",
+          "waarde": 23
         }
       ]
     },
@@ -51,13 +51,13 @@
           "waarde": 3
         },
         {
-          "naam": "Jayden MOHAMED",
-          "team": "KIN",
+          "naam": "Tilsaimy MELFOR",
+          "team": "UVV",
           "waarde": 3
         },
         {
-          "naam": "Jorrit PATIST",
-          "team": "UVV",
+          "naam": "Jayden MOHAMED",
+          "team": "KIN",
           "waarde": 3
         }
       ]
@@ -65,6 +65,11 @@
     {
       "label": "Batting Average",
       "leaders": [
+        {
+          "naam": "Gijs VAN ZALINGEN",
+          "team": "TWI",
+          "waarde": ".714"
+        },
         {
           "naam": "Jamie BEERMAN",
           "team": "AMS",
@@ -84,11 +89,6 @@
           "naam": "Jeandro TROMP",
           "team": "AMS",
           "waarde": ".431"
-        },
-        {
-          "naam": "Stijn VAN DER MEER",
-          "team": "NEP",
-          "waarde": ".415"
         }
       ]
     },
@@ -96,9 +96,14 @@
       "label": "Slugging",
       "leaders": [
         {
+          "naam": "Gijs VAN ZALINGEN",
+          "team": "TWI",
+          "waarde": ".857"
+        },
+        {
           "naam": "Nando MOSTAERT",
           "team": "TWI",
-          "waarde": ".679"
+          "waarde": ".700"
         },
         {
           "naam": "Jeandro TROMP",
@@ -113,11 +118,6 @@
         {
           "naam": "Drew JANSSEN",
           "team": "NEP",
-          "waarde": ".625"
-        },
-        {
-          "naam": "Jorrit PATIST",
-          "team": "UVV",
           "waarde": ".625"
         }
       ]
