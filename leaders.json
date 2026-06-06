@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T10:04:53Z",
+  "bijgewerkt": "2026-06-06T12:05:16Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -26,9 +26,9 @@
           "waarde": 25
         },
         {
-          "naam": "Luca VAN GORKUM",
-          "team": "KIN",
-          "waarde": 24
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": 25
         }
       ]
     },
@@ -51,13 +51,13 @@
           "waarde": 4
         },
         {
-          "naam": "Brendly MARTINA",
-          "team": "AMS",
-          "waarde": 3
+          "naam": "Jair VAN BORKULO",
+          "team": "KIN",
+          "waarde": 4
         },
         {
-          "naam": "Tilsaimy MELFOR",
-          "team": "UVV",
+          "naam": "Brendly MARTINA",
+          "team": "AMS",
           "waarde": 3
         }
       ]
@@ -71,24 +71,24 @@
           "waarde": ".500"
         },
         {
-          "naam": "Jamie BEERMAN",
-          "team": "AMS",
-          "waarde": ".462"
-        },
-        {
           "naam": "Christian DIAZ",
           "team": "NEP",
           "waarde": ".444"
         },
         {
-          "naam": "Jeandro TROMP",
-          "team": "AMS",
-          "waarde": ".434"
-        },
-        {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
           "waarde": ".431"
+        },
+        {
+          "naam": "Jeandro TROMP",
+          "team": "AMS",
+          "waarde": ".426"
+        },
+        {
+          "naam": "Gijs VAN ZALINGEN",
+          "team": "TWI",
+          "waarde": ".417"
         }
       ]
     },
@@ -101,13 +101,13 @@
           "waarde": ".733"
         },
         {
-          "naam": "Jeandro TROMP",
-          "team": "AMS",
-          "waarde": ".679"
-        },
-        {
           "naam": "Nando MOSTAERT",
           "team": "TWI",
+          "waarde": ".667"
+        },
+        {
+          "naam": "Jeandro TROMP",
+          "team": "AMS",
           "waarde": ".667"
         },
         {
@@ -118,7 +118,7 @@
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": ".627"
+          "waarde": ".619"
         }
       ]
     }
