@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T14:41:58Z",
+  "bijgewerkt": "2026-06-06T16:05:49Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,27 +8,27 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 34
+          "waarde": 36
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 32
+          "waarde": 34
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
+          "waarde": 29
+        },
+        {
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
           "waarde": 28
         },
         {
           "naam": "Dwayne KEMP",
           "team": "NEP",
           "waarde": 26
-        },
-        {
-          "naam": "Tommy VAN DE SANDEN",
-          "team": "AMS",
-          "waarde": 25
         }
       ]
     },
@@ -66,19 +66,19 @@
       "label": "Batting Average",
       "leaders": [
         {
-          "naam": "Den SEELBACH",
-          "team": "NEP",
-          "waarde": ".500"
-        },
-        {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".447"
+          "waarde": ".456"
+        },
+        {
+          "naam": "Den SEELBACH",
+          "team": "NEP",
+          "waarde": ".448"
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": ".427"
+          "waarde": ".442"
         },
         {
           "naam": "Jeandro TROMP",
@@ -86,9 +86,9 @@
           "waarde": ".426"
         },
         {
-          "naam": "Gijs VAN ZALINGEN",
-          "team": "TWI",
-          "waarde": ".417"
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": ".418"
         }
       ]
     },
@@ -98,7 +98,7 @@
         {
           "naam": "Drew JANSSEN",
           "team": "NEP",
-          "waarde": ".733"
+          "waarde": ".722"
         },
         {
           "naam": "Jeandro TROMP",
@@ -111,14 +111,14 @@
           "waarde": ".662"
         },
         {
-          "naam": "Nando MOSTAERT",
-          "team": "TWI",
-          "waarde": ".636"
-        },
-        {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": ".619"
+          "waarde": ".657"
+        },
+        {
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": ".620"
         }
       ]
     }
