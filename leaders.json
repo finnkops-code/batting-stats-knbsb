@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T16:05:49Z",
+  "bijgewerkt": "2026-06-06T18:05:48Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -108,7 +108,7 @@
         {
           "naam": "Jorrit PATIST",
           "team": "UVV",
-          "waarde": ".662"
+          "waarde": ".657"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
