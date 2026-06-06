@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T12:05:16Z",
+  "bijgewerkt": "2026-06-06T14:41:58Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,22 +8,22 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 32
+          "waarde": 34
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 31
+          "waarde": 32
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": 27
+          "waarde": 28
         },
         {
           "naam": "Dwayne KEMP",
           "team": "NEP",
-          "waarde": 25
+          "waarde": 26
         },
         {
           "naam": "Tommy VAN DE SANDEN",
@@ -36,13 +36,13 @@
       "label": "Home Runs",
       "leaders": [
         {
-          "naam": "Nando MOSTAERT",
-          "team": "TWI",
-          "waarde": 4
-        },
-        {
           "naam": "Jorrit PATIST",
           "team": "UVV",
+          "waarde": 5
+        },
+        {
+          "naam": "Nando MOSTAERT",
+          "team": "TWI",
           "waarde": 4
         },
         {
@@ -73,12 +73,12 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".444"
+          "waarde": ".447"
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": ".431"
+          "waarde": ".427"
         },
         {
           "naam": "Jeandro TROMP",
@@ -101,11 +101,6 @@
           "waarde": ".733"
         },
         {
-          "naam": "Nando MOSTAERT",
-          "team": "TWI",
-          "waarde": ".667"
-        },
-        {
           "naam": "Jeandro TROMP",
           "team": "AMS",
           "waarde": ".667"
@@ -113,7 +108,12 @@
         {
           "naam": "Jorrit PATIST",
           "team": "UVV",
-          "waarde": ".635"
+          "waarde": ".662"
+        },
+        {
+          "naam": "Nando MOSTAERT",
+          "team": "TWI",
+          "waarde": ".636"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
