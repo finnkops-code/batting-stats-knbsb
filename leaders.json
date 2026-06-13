@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-13T03:54:27Z",
+  "bijgewerkt": "2026-06-13T12:26:32Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,12 +8,12 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 36
+          "waarde": 39
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 34
+          "waarde": 36
         },
         {
           "naam": "Darryl COLLINS",
@@ -21,14 +21,14 @@
           "waarde": 29
         },
         {
-          "naam": "Tommy VAN DE SANDEN",
-          "team": "AMS",
+          "naam": "Dwayne KEMP",
+          "team": "NEP",
           "waarde": 28
         },
         {
-          "naam": "Dwayne KEMP",
-          "team": "NEP",
-          "waarde": 26
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": 28
         }
       ]
     },
@@ -56,8 +56,8 @@
           "waarde": 4
         },
         {
-          "naam": "Brendly MARTINA",
-          "team": "AMS",
+          "naam": "Christian DIAZ",
+          "team": "NEP",
           "waarde": 3
         }
       ]
@@ -68,17 +68,17 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".456"
+          "waarde": ".476"
+        },
+        {
+          "naam": "Stijn VAN DER MEER",
+          "team": "NEP",
+          "waarde": ".450"
         },
         {
           "naam": "Den SEELBACH",
           "team": "NEP",
           "waarde": ".448"
-        },
-        {
-          "naam": "Stijn VAN DER MEER",
-          "team": "NEP",
-          "waarde": ".442"
         },
         {
           "naam": "Jeandro TROMP",
@@ -98,7 +98,7 @@
         {
           "naam": "Drew JANSSEN",
           "team": "NEP",
-          "waarde": ".722"
+          "waarde": ".667"
         },
         {
           "naam": "Jeandro TROMP",
@@ -106,9 +106,9 @@
           "waarde": ".667"
         },
         {
-          "naam": "Jorrit PATIST",
-          "team": "UVV",
-          "waarde": ".657"
+          "naam": "Christian DIAZ",
+          "team": "NEP",
+          "waarde": ".659"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
@@ -116,9 +116,9 @@
           "waarde": ".657"
         },
         {
-          "naam": "Darryl COLLINS",
-          "team": "NEP",
-          "waarde": ".620"
+          "naam": "Jorrit PATIST",
+          "team": "UVV",
+          "waarde": ".644"
         }
       ]
     }
