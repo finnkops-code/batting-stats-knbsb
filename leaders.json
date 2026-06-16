@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-16T19:38:58Z",
+  "bijgewerkt": "2026-06-16T22:13:07Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,22 +8,22 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 40
+          "waarde": 41
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 37
+          "waarde": 40
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": 31
+          "waarde": 32
         },
         {
           "naam": "Dwayne KEMP",
           "team": "NEP",
-          "waarde": 30
+          "waarde": 32
         },
         {
           "naam": "Tommy VAN DE SANDEN",
@@ -68,12 +68,12 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".476"
+          "waarde": ".466"
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": ".446"
+          "waarde": ".465"
         },
         {
           "naam": "Jeandro TROMP",
@@ -108,7 +108,7 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".655"
+          "waarde": ".648"
         },
         {
           "naam": "Jorrit PATIST",
@@ -118,7 +118,7 @@
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": ".590"
+          "waarde": ".595"
         }
       ]
     }
