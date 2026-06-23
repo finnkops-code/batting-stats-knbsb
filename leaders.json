@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-23T20:14:23Z",
+  "bijgewerkt": "2026-06-23T22:14:30Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -81,14 +81,14 @@
           "waarde": ".457"
         },
         {
-          "naam": "Twan GIELING",
-          "team": "PIO",
-          "waarde": ".444"
-        },
-        {
           "naam": "Den SEELBACH",
           "team": "NEP",
           "waarde": ".432"
+        },
+        {
+          "naam": "Jeandro TROMP",
+          "team": "AMS",
+          "waarde": ".431"
         }
       ]
     },
