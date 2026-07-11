@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T03:32:03Z",
+  "bijgewerkt": "2026-07-11T11:52:50Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,17 +8,17 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 49
+          "waarde": 50
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 43
+          "waarde": 44
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": 36
+          "waarde": 37
         },
         {
           "naam": "Dwayne KEMP",
@@ -28,7 +28,7 @@
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": 33
+          "waarde": 34
         }
       ]
     },
@@ -66,40 +66,35 @@
       "label": "Batting Average",
       "leaders": [
         {
-          "naam": "Raphael SMEENK",
-          "team": "AMS",
-          "waarde": ".556"
-        },
-        {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".490"
+          "waarde": ".485"
+        },
+        {
+          "naam": "Raphael SMEENK",
+          "team": "AMS",
+          "waarde": ".455"
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": ".457"
+          "waarde": ".454"
+        },
+        {
+          "naam": "Jeandro TROMP",
+          "team": "AMS",
+          "waarde": ".439"
         },
         {
           "naam": "Den SEELBACH",
           "team": "NEP",
           "waarde": ".432"
-        },
-        {
-          "naam": "Jeandro TROMP",
-          "team": "AMS",
-          "waarde": ".431"
         }
       ]
     },
     {
       "label": "Slugging",
       "leaders": [
-        {
-          "naam": "Raphael SMEENK",
-          "team": "AMS",
-          "waarde": ".778"
-        },
         {
           "naam": "Ilyas VAN DEN BOS",
           "team": "AMS",
@@ -108,17 +103,22 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".710"
+          "waarde": ".699"
         },
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".677"
+          "waarde": ".697"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": ".675"
+          "waarde": ".684"
+        },
+        {
+          "naam": "Raphael SMEENK",
+          "team": "AMS",
+          "waarde": ".636"
         }
       ]
     }
