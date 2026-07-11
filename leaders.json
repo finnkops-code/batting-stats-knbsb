@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T15:56:51Z",
+  "bijgewerkt": "2026-07-11T19:04:25Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -28,7 +28,7 @@
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": 34
+          "waarde": 36
         }
       ]
     },
@@ -78,16 +78,16 @@
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".433"
-        },
-        {
-          "naam": "Den SEELBACH",
-          "team": "NEP",
-          "waarde": ".425"
+          "waarde": ".429"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
+          "waarde": ".429"
+        },
+        {
+          "naam": "Den SEELBACH",
+          "team": "NEP",
           "waarde": ".425"
         }
       ]
@@ -96,11 +96,6 @@
       "label": "Slugging",
       "leaders": [
         {
-          "naam": "Ilyas VAN DEN BOS",
-          "team": "AMS",
-          "waarde": ".750"
-        },
-        {
           "naam": "Christian DIAZ",
           "team": "NEP",
           "waarde": ".713"
@@ -108,17 +103,22 @@
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".687"
+          "waarde": ".686"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": ".675"
+          "waarde": ".667"
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
           "waarde": ".615"
+        },
+        {
+          "naam": "Nando MOSTAERT",
+          "team": "TWI",
+          "waarde": ".600"
         }
       ]
     }
