@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T11:52:50Z",
+  "bijgewerkt": "2026-07-11T15:56:51Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=batting&language=en",
   "categories": [
     {
@@ -8,22 +8,22 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": 50
+          "waarde": 54
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": 44
+          "waarde": 48
         },
         {
           "naam": "Darryl COLLINS",
           "team": "NEP",
-          "waarde": 37
+          "waarde": 40
         },
         {
           "naam": "Dwayne KEMP",
           "team": "NEP",
-          "waarde": 35
+          "waarde": 37
         },
         {
           "naam": "Tommy VAN DE SANDEN",
@@ -68,27 +68,27 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".485"
-        },
-        {
-          "naam": "Raphael SMEENK",
-          "team": "AMS",
-          "waarde": ".455"
+          "waarde": ".500"
         },
         {
           "naam": "Stijn VAN DER MEER",
           "team": "NEP",
-          "waarde": ".454"
+          "waarde": ".471"
         },
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".439"
+          "waarde": ".433"
         },
         {
           "naam": "Den SEELBACH",
           "team": "NEP",
-          "waarde": ".432"
+          "waarde": ".425"
+        },
+        {
+          "naam": "Tommy VAN DE SANDEN",
+          "team": "AMS",
+          "waarde": ".425"
         }
       ]
     },
@@ -103,22 +103,22 @@
         {
           "naam": "Christian DIAZ",
           "team": "NEP",
-          "waarde": ".699"
+          "waarde": ".713"
         },
         {
           "naam": "Jeandro TROMP",
           "team": "AMS",
-          "waarde": ".697"
+          "waarde": ".687"
         },
         {
           "naam": "Tommy VAN DE SANDEN",
           "team": "AMS",
-          "waarde": ".684"
+          "waarde": ".675"
         },
         {
-          "naam": "Raphael SMEENK",
-          "team": "AMS",
-          "waarde": ".636"
+          "naam": "Darryl COLLINS",
+          "team": "NEP",
+          "waarde": ".615"
         }
       ]
     }
